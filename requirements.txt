@@ -1,0 +1,9 @@
+azure-functions
+yfinance
+pandas
+sqlalchemy
+pyodbc
+tenacity
+azure-keyvault-secrets
+azure-identity
+python-dotenv
