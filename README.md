@@ -265,6 +265,7 @@ ORDER BY f.anio DESC, f.mes DESC;
 - [x] Fase 1 — Pipeline ETL local con SQL Server
 - [x] Fase 2 — Robustez: reintentos, logging, variables de entorno, tests
 - [x] Fase 3 — Automatización en Azure (Functions + SQL + Key Vault)
+- [x] Fase 4 — Reportería en PDF/Excel y envío diario mediante e-mail
 
 ---
 
