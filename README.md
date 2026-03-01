@@ -272,4 +272,4 @@ ORDER BY f.anio DESC, f.mes DESC;
 ## 👤 Autor
 
 **Ignacio Azua**  
-[LinkedIn](https://linkedin.com/in/tu-perfil) · [GitHub](https://github.com/tu-usuario)
+[LinkedIn](https://linkedin.com/in/iaaz) · [GitHub](https://github.com/iazua)
